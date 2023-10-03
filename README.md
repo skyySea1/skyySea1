@@ -18,16 +18,16 @@ Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil 
 
 ## Outras seções comuns em perfis do GitHub
 
-🧠 Estou aprendendo Rust
+🧠 Estou aprendendo Rust e SQL
 
 👯‍♀️ Procuro colaborar em empresas e projetos open-source
 
 
-💬 Me pergunte sobre neurociência 
+💬 Me pergunte sobre neurociência, filosofia, física
 
-⚡️ Fatos engraçados: sou fascinado por capivraras
+⚡️ Fatos engraçados: sou um admirador das capivraras
 
 
 ## 🛠 Habilidades
- HTML, CSS, GIT, Rust, PHP
+ HTML, CSS, GIT, Rust, PHP, Bootstrap
 
