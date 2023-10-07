@@ -16,7 +16,7 @@ Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil 
 [![email](https://img.shields.io/badge/send-email-to%20me?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=black)](mailto:henrir1020@gmail.com)
 
 
-## Outras seções comuns em perfis do GitHub
+## Descrição
 
 🧠 Estou aprendendo Rust e SQL
 
