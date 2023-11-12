@@ -18,7 +18,7 @@ Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil 
 
 ## Descrição
 
-🧠 Estou aprendendo Rust e SQL
+🧠 Estou aprendendo Rust, C, PHP e SQL
 
 👯‍♀️ Procuro colaborar em empresas e projetos open-source
 
