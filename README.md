@@ -18,7 +18,7 @@ Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil 
 
 ## Descrição
 
-🧠 Estou aprendendo Rust, C, PHP e SQL
+🧠 Estou aprendendo React, C, Python, JavaScript e SQL
 
 👯‍♀️ Procuro colaborar em empresas e projetos open-source
 
@@ -29,5 +29,5 @@ Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil 
 
 
 ## 🛠 Habilidades
- HTML, CSS, GIT, Rust, PHP, Bootstrap
+ HTML, CSS, GIT, JavaScript, Power B,INode.js, Tailwind, React, Bootstrap
 
