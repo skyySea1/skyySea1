@@ -1,12 +1,12 @@
 
 # Olá, eu me chamo Marcell! 👋
 # 🚀 Sobre mim
-Sou um desenvolvedor Back-end em busca de excelência.
+Sou um desenvolvedor Back-end E Analista de Dados em busca de excelência.
 
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil do insta: @The_mental.gallery ou perfil do discord : skyysea_
+Se você tiver algum feedback, por favor me deixe saber por meio do meu perfil do insta: @The_mental.gallery ou perfil do discord : skyysea_
 
 
 ## 🔗 Links
@@ -18,16 +18,15 @@ Se você tiver algum feedback, por favor nos deixe saber por meio do meu perfil 
 
 ## Descrição
 
-🧠 Estou aprendendo React, C, Python, JavaScript e SQL
+🧠 Estou aprendendo Java, R, Python, Power BI e SQL
 
-👯‍♀️ Procuro colaborar em empresas e projetos open-source
+👯‍♀️ Disoinível para colaboração em projetos open-source
 
+💬 Me pergunte sobre neurociência, filosofia, física, saúde e vida
 
-💬 Me pergunte sobre neurociência, filosofia, física
-
-⚡️ Fatos engraçados: sou um admirador das capivraras
+⚡️ Fatos engraçados: eu converso  sozinho no espelho 😎
 
 
 ## 🛠 Habilidades
- HTML, CSS, GIT, JavaScript, Power B,INode.js, Tailwind, React, Bootstrap
+ HTML, CSS, GIT, JavaScript, Power BI,, Tailwind, Python, C, R, Java, Bootstrap
 
