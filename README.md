@@ -1,12 +1,13 @@
 
 # Olá, eu me chamo Marcell! 👋
 # 🚀 Sobre mim
-Sou um desenvolvedor Back-end E Analista de Dados em busca de excelência.
+Sou um  Programador orientado a erficiência e solução de problemas, com caratér àgil e excelente time-managing, vamos juntos somar nossas mentes para resolver os problemas que realmente importam e causm impacto na sociedade, ou na satisfação do cliente.
+desenvolvedor Back-end E Analista de Dados em busca de excelência.
 
 
 ## Feedback
 
-Se você tiver algum feedback, por favor me deixe saber por meio do meu perfil do insta: @The_mental.gallery ou perfil do discord : skyysea_
+Se você tiver algum feedback, te convido a expressar suas incrívieis ideias, deixe saber por meio do meu perfil do insta: @The_mental.gallery ou perfil do discord : skyysea_
 
 
 ## 🔗 Links
