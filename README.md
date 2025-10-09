@@ -19,7 +19,7 @@ Se você tiver algum feedback, te convido a expressar suas incrívieis ideias, d
 
 ## Descrição
 
-🧠 Estou aprendendo Java, R, Python, Power BI e SQL
+🧠 Estou aprendendo Java, Python, Angular, Docker, Ubuntu, github Cli, n8n, supabase, Postgres
 
 👯‍♀️ Disoinível para colaboração em projetos open-source
 
