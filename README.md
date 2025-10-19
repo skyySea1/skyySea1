@@ -1,5 +1,6 @@
 
 # Olá, eu me chamo Marcell! 👋
+ > OBS:  Conferir currículo para detalhes mais atualizados
 # 🚀 Sobre mim
 Sou um  Programador orientado a eficiência e solução de problemas, com caráter ágil, senso de dono e excelente time-managing, vamos juntos somar nossas mentes para resolver as equações que realmente importam e causam impacto na sociedade, ou na satisfação do cliente, entre em contato comigo!
 Desenvolvedor Back-end e Analista de Dados em busca da excelência.
@@ -19,7 +20,7 @@ Se você tiver algum feedback, te convido a expressar suas incrívieis ideias, d
 
 ## Descrição
 
-🧠 Estou aprendendo Java, Python, Angular, Docker, Ubuntu, github Cli, n8n, supabase, Postgres, LEAN e SOLID
+🧠 Estou aprendendo Python, Angular, Docker, Ubuntu, Langgraph, n8n, supabase, Postgres, LEAN e SOLID
 
 👯‍♀️ Disoinível para colaboração em projetos open-source
 
@@ -29,5 +30,5 @@ Se você tiver algum feedback, te convido a expressar suas incrívieis ideias, d
 
 
 ## 🛠 Habilidades
- HTML, CSS, GIT, JavaScript, Power BI,, Tailwind, Python, C, R, Java, Bootstrap
+ HTML, CSS, GIT, Typescript, React, Power BI, Shadcn,, FastAPI, Tailwind, Python/
 
