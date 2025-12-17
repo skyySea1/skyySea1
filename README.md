@@ -1,42 +1,30 @@
+# 👋 Hi, I’m Marcell
 
-# Olá, eu me chamo Marcell! 👋
- > OBS:  Conferir currículo para detalhes mais atualizados
-# 🚀 Sobre mim
--Sou um Desenvolvedor orientado a: pensamento crítico, decisões assertivas e o mais importante. Centralizado em solução de problemas. 
--Estou verticalizando minnhas habilidades em Desenvolvimento de IA, full-stack, plataformas enfatizadas em segurança, observabilidade, code coverage, tecnologias enxutas. 
--Minha missão é: entregar agilidade e precisão a minha equipe e clientes. 
--Que tal pensarmos juntos e unir esforços para construir um pedaçinho de mundo melhor para desenvolvedores, empresas e pessoas? 
--Vivemos em uma transição de paradigma, o futuro é incerto, mas é preciso de atitude e sabedoria para garantir a segurança, ética, e integridade da tecnologia para benefício humano e para melhoria de vidas.
+Full Stack Developer & AI Platform Builder — turning complex ideas into actionable, human-centered solutions.
 
--Em breve estarei oferecendo consultoria sobre Adoção de Inteligência artificial e transformação digital.
+## 🚀 Mission
 
+* Build **scalable, secure, and observable platforms** that empower teams and clients.
+* Apply **critical thinking and data-driven decisions** to solve real-world problems.
+* Amplify human potential with AI and digital transformation.
 
-Desenvolvimento Full Stack e de Agentes de IA
+## 🌐 Expertise
 
+* **Full Stack:** TypeScript, Python, Java, React / Angular / Vue
+* **AI & Automation:** LangGraph, FastAPI, n8n, AI agents
+* **Data & Insights:** Power BI, Supabase, PostgreSQL
+* **Best Practices:** LEAN, SOLID, code coverage, observability
 
-## Feedback
+## 💡 Vision
 
-Se você tiver algum feedback, te convido a expressar suas incrívieis ideias, no meu perfil do instagram: @0skyysea ou perfil do discord : skyysea_
+* We live in a paradigm shift — technology must be **ethical, secure, and human-first**.
+* I focus on **creating value fast**, building tools that **accelerate growth** for startups, developers, and communities.
 
+## 🔗 Connect
 
-## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/henrir1)
+[![github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/skyysea1)
+[![email](https://img.shields.io/badge/send-email-to%20me?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=red\&color=black)](mailto:henrir1020@gmail.com)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrir1)
-[![github](https://img.shields.io/badge/github-0A66C2?style=for-the-badge&logo=github&logoColor=black)](https://github.com/skyysea1)
-[![email](https://img.shields.io/badge/send-email-to%20me?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=black)](mailto:henrir1020@gmail.com)
-
-
-## Descrição
-
-🧠 Estou aprendendo Vue, Angular, Docker, Ubuntu, Langgraph, n8n, supabase, Postgres, LEAN e SOLID
-
-👯‍♀️ Disoinível para colaboração em projetos open-source
-
-💬 Me pergunte sobre neurociência, filosofia, física, saúde e vida
-
-⚡️ Fatos engraçados: eu converso  sozinho no espelho 😎
-
-
-## 🛠 Habilidades
-  Typescript, Langgraph, Python, Java, React/Angular/Vue, Power BI, Shadcn, FastAPI, Langgraph
-
+---
+We need improve society improving ourself before. Purpouse-based business, leads prosperity for everyone. We will win.
