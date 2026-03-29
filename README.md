@@ -12,12 +12,14 @@ Full Stack Developer & AI Platform Builder — turning complex ideas into action
 
 * **Full Stack:** TypeScript, Python, Java, React / Angular / Vue
 * **AI & Automation:** LangGraph, FastAPI, n8n, AI agents
+* **Observability:** Prometheus, Grafana
 * **Data & Insights:** Power BI, Supabase, PostgreSQL
-* **Best Practices:** LEAN, SOLID, code coverage, observability
+* **Best Practices:** LEAN, SOLID, DRY, observability
 
 ## 💡 Vision
 
 * We live in a paradigm shift — technology must be **ethical, secure, and human-first**.
+* We are the Leaders of the future technicall revolution, we must learn with past fails and be landed in human and Nature health.
 * I focus on **creating value fast**, building tools that **accelerate growth** for startups, developers, and communities.
 
 ## 🔗 Connect
