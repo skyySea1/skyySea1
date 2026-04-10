@@ -11,7 +11,7 @@ Full Stack Developer & AI Platform Builder — turning complex ideas into action
 ## 🌐 Expertise
 
 * **Full Stack:** TypeScript, Python, Java, React / Angular / Vue
-* **AI & Automation:** LangGraph, FastAPI, n8n, AI agents
+* **AI & Automation:** LangGraph/Langchain, FastAPI, Fastify, n8n, AI agents
 * **Observability:** Prometheus, Grafana
 * **Data & Insights:** Power BI, Supabase, PostgreSQL
 * **Best Practices:** LEAN, SOLID, DRY, observability
