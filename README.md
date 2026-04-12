@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Marcell
+# 👋 Hi, I’m Marcell Henrique
 
 Full Stack Developer & AI Platform Builder — turning complex ideas into actionable, human-centered solutions.
 
